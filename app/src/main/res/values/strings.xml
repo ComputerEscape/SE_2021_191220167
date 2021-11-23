@@ -10,10 +10,10 @@
     <string name="app_name">Material Files</string>
 
     <string name="close">Close</string>
-    <string name="copy">Copy</string>
-    <string name="cut">Cut</string>
+    <string name="copy">COPY</string>
+    <string name="cut">CUT</string>
     <string name="default_">Default</string>
-    <string name="delete">Delete</string>
+    <string name="delete">DELETE</string>
     <string name="discard">Discard</string>
     <string name="edit">Edit</string>
     <string name="empty">Empty</string>
@@ -31,7 +31,7 @@
     <string name="refresh">Refresh</string>
     <string name="reload">Reload</string>
     <string name="remove">Remove</string>
-    <string name="rename">Rename</string>
+    <string name="rename">RENAME</string>
     <string name="replace">Replace</string>
     <string name="reset">Reset</string>
     <string name="retry">Retry</string>
@@ -39,7 +39,7 @@
     <string name="search">Search</string>
     <string name="select">Select</string>
     <string name="select_all">Select all</string>
-    <string name="share">Share</string>
+    <string name="share">SHARE</string>
     <string name="show">Show</string>
     <string name="skip">Skip</string>
     <string name="sort">Sort</string>
@@ -272,9 +272,9 @@
     <string name="file_list_action_new_task">New window</string>
     <string name="file_list_action_navigate_up">Go up</string>
     <string name="file_list_action_show_hidden_files">Show hidden files</string>
-    <string name="file_list_action_copy_path">Copy path</string>
+    <string name="file_list_action_copy_path">COPY PATH</string>
     <string name="file_list_action_open_in_terminal">Open in terminal</string>
-    <string name="file_list_action_add_bookmark">Add bookmark</string>
+    <string name="file_list_action_add_bookmark">ADD BOOKMARK</string>
     <string name="file_list_action_create_shortcut">Create shortcut</string>
     <string name="file_list_breadcrumb_action_copy_path">@string/file_list_action_copy_path</string>
     <string name="file_list_breadcrumb_action_open_in_new_task">Open in new window</string>
@@ -291,9 +291,9 @@
     <string name="file_list_action_create_directory">Folder</string>
 
     <string name="file_item_description_separator">\u0020\u0020\u0020\u0020</string>
-    <string name="file_item_action_open_with">Open with</string>
-    <string name="file_item_action_extract">Extract</string>
-    <string name="file_item_action_archive">Compress</string>
+    <string name="file_item_action_open_with">OPEN WITH</string>
+    <string name="file_item_action_extract">EXTRACT</string>
+    <string name="file_item_action_archive">COMPRESS</string>
     <string name="file_item_action_copy_path">@string/file_list_action_copy_path</string>
     <string name="file_item_action_add_bookmark">@string/file_list_action_add_bookmark</string>
     <string name="file_item_action_create_shortcut">@string/file_list_action_create_shortcut</string>
