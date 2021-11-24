@@ -97,6 +97,6 @@
         android:background="@color/material_blue_100"
         android:foreground="@drawable/selectable_item_background_oval"
         android:padding="@dimen/touch_target_icon_padding"
-        android:src="@drawable/more_vertical_icon_white_24dp"
+        android:src="@drawable/menu_icon_control_normal_24dp"
         app:tint="?colorControlNormal" />
 </me.zhanghai.android.files.ui.CheckableForegroundLinearLayout>
